@@ -9,11 +9,7 @@ df = read_csv("data/weatherAUS.csv")
 # Create a scatter plot of Humidity9am and a location
 # a location
 
-<<<<<<< HEAD
-city = "Ayers Rock"
-=======
 city = "Unknown"
->>>>>>> main
 
 scatter_plot = 
 df %>%
